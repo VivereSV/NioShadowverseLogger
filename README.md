@@ -27,7 +27,7 @@ Every week, Team Dawnbreakers will post the data on r/Shadowverse along with som
 ## I'm in, sign me up!
 Follow these links to download Nio!
 
-[OSX](Mac link here)
+[OSX](http://www.mediafire.com/file/8rus3fa2ol8j5q7/nio_mac.zip/file)
 
 [Windows](Windows link here)
 
