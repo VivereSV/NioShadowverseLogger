@@ -7,7 +7,7 @@ Nio helps you keep track of your Shadowverse matches by allowing quick and easy 
 
 
 ## What can I do with this data?
-If you would like to contribute your data to the public pool, simply head over to the [Team Dawnbreakers Discord server](https://discord.gg/BjeFkVS), ask one of the moderators for a "Data Logger" role, and send a message in the #data_log channel in the proper format (covered in next section). All messages sent to SAlter will be recorded and should we find that you are submitting fraudulent data or abusing the function, you will not be allowed to send anymore messages to SAlter in the future.
+If you would like to contribute your data to the public pool, simply head over to the [Team Dawnbreakers Discord server](https://discord.gg/BjeFkVS), ask one of the moderators for a "Data Logger" role, and send a message in the #data_log channel in the proper format (covered in next section). All messages sent to SAlter will be recorded and should we find that you are submitting fraudulent data or abusing the function, you will not be allowed to send anymore messages to SAlter in the future. You may only submit logs once a week, with the reset occurring at 3pm PST on Tuesdays. 
 
 
 ## Okay, so about that format?
