@@ -1,9 +1,9 @@
 # NioShadowverseLogger
-A two button match logger for Shadowverse
+An AUTOMATIC match logger for Shadowverse. Just start it up before your no life ladder session and you're good to go!
 
 
 ## What does it do?
-Nio helps you keep track of your Shadowverse matches by allowing quick and easy logging. Simply press the ctrl button once on the mulligan screen and once on the results screen and Nio will write your class, your opponent's class, who went first, and who won to a log file. To exit, just hit alt (OSX) or esc (Windows).
+Nio helps you keep track of your Shadowverse matches by allowing quick and easy logging. Nio will write your class, your opponent's class, who went first, and who won to a log file. And you don't even have to do anything after you start it! To exit, just hit ctrl c on the command prompt/terminal.
 
 
 ## What can I do with this data?
@@ -44,22 +44,6 @@ If you are experiencing technical difficulties, please inform VLV#5047. Please p
 If you have any feedback, feel free to message VLV#5047.
 
 
-## Oh shoot I misclicked and hit ctrl by accident
-Hitting ctrl by accident will not affect Nio.
-
-
-## Oh shoot I forgot to press it on the mulligan screen
-That just means that you won't be able to log this game. Sorry.
-
-
-## Oh shoot this time I forgot to press it on the result screen
-To avoid getting erroneous data, please exit the application by hitting alt (OSX) or esc (Windows)
-
-
-## Remembering to press 2 buttons per game is kind of hard, fully automatic when?
-When it's fully fleshed out, that's when. (I'm actually still working on it, if I can finish it in next few days I'll make it fully automatic. If I can't, I'll change this answer to some technobabble about why it can't be done and wait for some reddit guy to prove me wrong and give me the code)
-
-
 ## Wow man you're so cool how can I ever repay you
 [Pay me with real money](muh paypal)
 
@@ -69,5 +53,11 @@ FaceTorched#5219 for making the Windows distribution, bugtesting, and giving sug
 
 HSK PancakeReaper for his advice on which screens to take, control suggestions, and convincing me to make this supported on all languages (you people who play in Japanese can thank him for that). 
 
+HSK for bugtesting
+
 DB randomystery for suffering through my caps lock spam.
+
+Rhekar for shaming me into making this fully automatic
+
+And of course, Team Dawnbreakers for all their support. Cough guinea pigs cough.
 
