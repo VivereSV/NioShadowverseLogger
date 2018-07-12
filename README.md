@@ -49,7 +49,7 @@ Hitting ctrl by accident will not affect Nio.
 That just means that you won't be able to log this game. Sorry.
 
 
-## Oh shoot this I forgot to press it on the result screen
+## Oh shoot this time I forgot to press it on the result screen
 To avoid getting erroneous data, please exit the application by hitting alt (OSX) or esc (Windows)
 
 
