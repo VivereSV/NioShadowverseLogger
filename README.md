@@ -26,8 +26,11 @@ Every week, Team Dawnbreakers will post the data on r/Shadowverse along with som
 
 ## I'm in, sign me up!
 Follow these links to download Nio!
+
 [OSX](Mac link here)
+
 [Windows](Windows link here)
+
 Linux: As of now, there is no Linux version of Nio. Sorry about that.
 
 
@@ -59,6 +62,8 @@ When it's fully fleshed out, that's when. (I'm actually still working on it, if 
 
 # Special thanks to...
 FaceTorched#5219 for making the Windows distribution, bugtesting, and giving suggestions.
+
 HSK PancakeReaper for his advice on which screens to take, control suggestions, and convincing me to make this supported on all languages (you people who play in Japanese can thank him for that). 
+
 DB randomystery for suffering through my caps lock spam.
 
