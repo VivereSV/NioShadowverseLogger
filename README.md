@@ -48,7 +48,7 @@ If you have any feedback, feel free to message VLV#5047.
 
 
 # Special thanks to...
-FaceTorched#5219 for making the Windows distribution, bugtesting, and giving suggestions.
+FaceTorched#5219 for making the Windows distribution, bugtesting, and giving suggestions. If it were not for him, this would be an OSX only application omegaLUL.
 
 HSK PancakeReaper for his advice on which screens to take, control suggestions, and convincing me to make this supported on all languages (you people who play in Japanese can thank him for that). 
 
