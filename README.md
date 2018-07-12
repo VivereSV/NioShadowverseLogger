@@ -31,7 +31,7 @@ Follow these links to download Nio!
 
 [Windows](Windows link here)
 
-Linux: As of now, there is no Linux version of Nio. Sorry about that.
+Linux: As of now, there is no Linux version of Nio. If you use Linux and are interested in helping me freeze the .py script, message VLV#5047. Do note that if a Linux version is released, I will not be able to guarantee that it contains no malicious code as whoever freezes it will be the last one with access to the .py file. So you'll have to trust them.
 
 
 # FAQ
