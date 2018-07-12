@@ -29,7 +29,7 @@ Follow these links to download Nio!
 
 [OSX](http://www.mediafire.com/file/8rus3fa2ol8j5q7/nio_mac.zip/file)
 
-[Windows](Windows link here)
+[Windows](http://www.mediafire.com/file/7hsv3fslg09mzlz/nio_windows.zip/file)
 
 Linux: As of now, there is no Linux version of Nio. If you use Linux and are interested in helping, please message VLV#5047.
 
