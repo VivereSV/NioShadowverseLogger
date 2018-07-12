@@ -45,7 +45,7 @@ If you have any feedback, feel free to message VLV#5047.
 
 
 ## Wow man you're so cool how can I ever repay you
-[Pay me with real money](paypal.me/vlvsv)
+[Pay me with real money](https://www.paypal.me/vlvsv)
 
 
 # Special thanks to...
