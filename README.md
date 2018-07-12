@@ -60,6 +60,10 @@ To avoid getting erroneous data, please exit the application by hitting alt (OSX
 When it's fully fleshed out, that's when. (I'm actually still working on it, if I can finish it in next few days I'll make it fully automatic. If I can't, I'll change this answer to some technobabble about why it can't be done and wait for some reddit guy to prove me wrong and give me the code)
 
 
+## Wow man you're so cool how can I ever repay you
+[Pay me with real money](muh paypal)
+
+
 # Special thanks to...
 FaceTorched#5219 for making the Windows distribution, bugtesting, and giving suggestions.
 
