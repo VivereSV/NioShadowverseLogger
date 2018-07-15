@@ -10,6 +10,10 @@ Nio helps you keep track of your Shadowverse matches by allowing quick and easy 
 The catch is that Nio only supports 3 resolutions if you download it straight from here: 1280x800, 1152x720, and 1920x1080 (1080p). Therefore, if you want to use Nio, you have 2 options. The first is just to change your resolution to one of the supported ones. If you do, open config.txt in the resources folder and make sure that the first line in it is your chosen resolution. The second is to keep your resolution at whatever jank numbers you have it at and do a little leg work to make Nio work. All you have to do is take a look inside the resources folder, check one of the default resolution folders, and take 20 screenshots similar to what is in those folders, create a new folder with the name being your resolution and put the screenshots you've taken (with the same names as those in the other folders) into the new folder. Don't forget to edit config.txt afterwards. The second option will take around 15-20 minutes (I suggest conceding to the solo practice AI to get the screenshots). Or you could just maybe change your resolution? 
 
 
+## Important note about resolution
+If you do decide to take your own screenshots and think that you would like to help that other poor soul playing on 782x451 resolution, you can message the folder that you created as a zip file to VLV#5047 and I will add it to the user made folders sections. 
+
+
 ## What can I do with this data?
 If you would like to contribute your data to the public pool, simply head over to the [Team Dawnbreakers Discord server](https://discord.gg/BjeFkVS), ask one of the moderators for a "Data Logger" role, and send a message in the #data_log channel in the proper format (covered in next section). All messages sent to SAlter will be recorded and should we find that you are submitting fraudulent data or abusing the function, you will not be allowed to send anymore messages to SAlter in the future. 
 
@@ -34,6 +38,13 @@ Follow these links to download Nio!
 [Windows](http://www.mediafire.com/file/7hsv3fslg09mzlz/nio_windows.zip/file)
 
 Linux: As of now, there is no Linux version of Nio. If you use Linux and are interested in helping, please message VLV#5047.
+
+
+## User made folders
+Listed below are image folders kindly supplied by other users.
+
+N/A
+
 
 # FAQ
 ## It's not working???
