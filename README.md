@@ -73,9 +73,9 @@ Haha you sure caught me I was just about to steal that tier 0 homebrew deck with
 
 
 # Special thanks to...
-FaceTorched#5219 for making the Windows distribution, bugtesting, and giving suggestions. If it were not for him, this would be an OSX only application omegaLUL.
+FaceTorched#5219 for making the Windows distribution, bugtesting, and giving suggestions. If it were not for him, this would be an OSX only application omegaLUL. Feel free to send him pictures of french fries with no explanation.
 
-HSK PancakeReaper for his advice on which screens to take, control suggestions, and convincing me to make this supported on all languages (you people who play in Japanese can thank him for that). 
+HSK PancakeReaper for his advice on which screens to take, control suggestions, and convincing me to make this supported on all languages (you nerds who play in Japanese can thank him for that). 
 
 DB Praetorian for being the first to wonder "why isn't this working"?
 
