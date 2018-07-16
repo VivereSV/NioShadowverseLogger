@@ -39,7 +39,7 @@ Follow these links to download Nio!
 
 [OSX](http://www.mediafire.com/file/4qe57f8abm931ym/nio_mac.zip/file)
 
-[Windows](http://www.mediafire.com/file/7hsv3fslg09mzlz/nio_windows.zip/file)
+[Windows](http://www.mediafire.com/file/b3mo4357v2d2h70/nio_windows.zip/file)
 
 Linux: As of now, there is no Linux version of Nio. If you use Linux and are interested in helping, please message VLV#5047.
 
@@ -84,6 +84,8 @@ HSK PancakeReaper for his advice on which screens to take, control suggestions, 
 DB Praetorian for being the first to wonder "why isn't this working"?
 
 HSK Bravehood for the bugtesting and getting the screenshots for 1080p. 
+
+SE | TK Dubski for the OSX testing and Macbook Air testing.
 
 DB randomystery for suffering through my caps lock spam.
 
