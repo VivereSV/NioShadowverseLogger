@@ -9,6 +9,8 @@ Nio helps you keep track of your Shadowverse matches by allowing quick and easy 
 ## Okay, what's the catch?
 The catch is that Nio only supports 3 resolutions if you download it straight from here: 1280x800, 1152x720, and 1920x1080 (1080p). Therefore, if you want to use Nio, you have 2 options. The first is just to change your resolution to one of the supported ones. If you do, open config.txt in the resources folder and make sure that the first line in it is your chosen resolution. Afterwards, make sure full screen is disabled in Shadowverse. The second is to keep your resolution at whatever jank numbers you have it at and do a little leg work to make Nio work. All you have to do is take a look inside the resources folder, check one of the default resolution folders, and take 20 screenshots similar to what is in those folders, create a new folder with the name being your resolution and put the screenshots you've taken (with the same names as those in the other folders) into the new folder. Don't forget to edit config.txt afterwards. The second option will take around 15-20 minutes (I suggest conceding to the solo practice AI to get the screenshots).
 
+Also it only works on the english version.
+
 
 ## Important note about resolution
 If you do decide to take your own screenshots and think that you would like to help that other poor soul playing on 782x451 resolution, you can message the folder that you created as a zip file to VLV#5047 and I will add it to the user made folders sections. 
@@ -79,7 +81,7 @@ Haha you sure caught me I was just about to steal that tier 0 homebrew deck with
 # Special thanks to...
 FaceTorched#5219 for making the Windows distribution, bugtesting, and giving suggestions. If it were not for him, this would be an OSX only application omegaLUL. Feel free to send him pictures of french fries with no explanation.
 
-HSK PancakeReaper for his advice on which screens to take, control suggestions, and convincing me to make this supported on all languages (you nerds who play in Japanese can thank him for that). 
+HSK PancakeReaper for his advice on which screens to take and control suggestions.
 
 DB Praetorian for being the first to wonder "why isn't this working"?
 
