@@ -14,6 +14,10 @@ The catch is that Nio only supports 3 resolutions if you download it straight fr
 If you do decide to take your own screenshots and think that you would like to help that other poor soul playing on 782x451 resolution, you can message the folder that you created as a zip file to VLV#5047 and I will add it to the user made folders sections. 
 
 
+## Quick note to Mac users
+Your config file contains one extra line, which is False by default. If, and only if, you are using a Mac without retina display (ie Macbook Air), you need to change that to True. If you are using retina display and are having issues, please message VLV#5047 because I'm honestly kind of bamboozled by Apple here.
+
+
 ## What can I do with this data?
 If you would like to contribute your data to the public pool, simply head over to the [Team Dawnbreakers Discord server](https://discord.gg/BjeFkVS), ask one of the moderators for a "Data Logger" role, and send a message in the #data_log channel in the proper format (covered in next section). All messages sent to SAlter will be recorded and should we find that you are submitting fraudulent data or abusing the function, you will not be allowed to send anymore messages to SAlter in the future. 
 
@@ -33,7 +37,7 @@ Every week, Team Dawnbreakers will post the data on r/Shadowverse along with som
 ## I'm in, sign me up!
 Follow these links to download Nio!
 
-[OSX](http://www.mediafire.com/file/a29yn6iafan1ojh/nio_mac.zip/file)
+[OSX](http://www.mediafire.com/file/4qe57f8abm931ym/nio_mac.zip/file)
 
 [Windows](http://www.mediafire.com/file/7hsv3fslg09mzlz/nio_windows.zip/file)
 
