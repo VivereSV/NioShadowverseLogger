@@ -7,7 +7,7 @@ Nio helps you keep track of your Shadowverse matches by allowing quick and easy 
 
 
 ## Okay, what's the catch?
-The catch is that Nio only supports 3 resolutions if you download it straight from here: 1280x800, 1152x720, and 1920x1080 (1080p). Therefore, if you want to use Nio, you have 2 options. The first is just to change your resolution to one of the supported ones. If you do, open config.txt in the resources folder and make sure that the first line in it is your chosen resolution. Afterwards, make sure full screen is disabled in Shadowverse. The second is to keep your resolution at whatever jank numbers you have it at and do a little leg work to make Nio work. All you have to do is take a look inside the resources folder, check one of the default resolution folders, and take 20 screenshots similar to what is in those folders, create a new folder with the name being your resolution and put the screenshots you've taken (with the same names as those in the other folders) into the new folder. Don't forget to edit config.txt afterwards. The second option will take around 15-20 minutes (I suggest conceding to the solo practice AI to get the screenshots).
+The catch is that Nio only supports 2 resolutions if you download it straight from here: 1280x800 and 1920x1080 (1080p). Therefore, if you want to use Nio, you have 2 options. The first is just to change your resolution to one of the supported ones. If you do, open config.txt in the resources folder and make sure that the first line in it is your chosen resolution. Afterwards, make sure full screen is disabled in Shadowverse. The second is to keep your resolution at whatever jank numbers you have it at and do a little leg work to make Nio work. All you have to do is take a look inside the resources folder, check one of the default resolution folders, and take 20 screenshots similar to what is in those folders, create a new folder with the name being your resolution and put the screenshots you've taken (with the same names as those in the other folders) into the new folder. Don't forget to edit config.txt afterwards. The second option will take around 15-20 minutes (I suggest conceding to the solo practice AI to get the screenshots).
 
 Also it only works with text on english. If you do not play with text on english, you will need to replace the 1st.png and 2nd.png files in your chosen resolution.
 
@@ -17,7 +17,9 @@ If you do decide to take your own screenshots and think that you would like to h
 
 
 ## Quick note to Mac users
-Your config file contains one extra line, which is False by default. If, and only if, you are using a Mac without retina display (ie Macbook Air), you need to change that to True. If you are using retina display and are having issues, please message VLV#5047 because I'm honestly kind of bamboozled by Apple here.
+Your config file contains one extra line, which is False by default. If, and only if, you are using a Mac with retina display (ie Macbook Pro), you need to change that to True. If you are using retina display and are having issues, please message VLV#5047 because I'm honestly kind of bamboozled by Apple here. Also worthy to note that if you do decide to take your own screenshots, that line needs to be False. 
+
+Also, if you want to use 1152x720, you need to have a retina display and have the config line be False.
 
 
 ## What can I do with this data?
@@ -85,11 +87,13 @@ HSK PancakeReaper for his advice on which screens to take and control suggestion
 
 DB Praetorian for being the first to wonder "why isn't this working"?
 
+DB Blum and DB xninebreaker for testing the windows version.
+
 HSK Bravehood for the bugtesting and getting the screenshots for 1080p. 
 
 SE | TK Dubski for the OSX testing and Macbook Air testing.
 
-DB randomystery for suffering through my caps lock spam.
+DB randomystery for suffering through my caps lock spam and getting the 1280x800 images. 
 
 Rhekar for shaming me into making this fully automatic.
 
