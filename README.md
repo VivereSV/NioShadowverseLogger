@@ -17,9 +17,9 @@ If you do decide to take your own screenshots and think that you would like to h
 
 
 ## Quick note to Mac users
-Your config file contains one extra line, which is False by default. If, and only if, you are using a Mac with retina display (ie Macbook Pro), you need to change that to True. If you are using retina display and are having issues, please message VLV#5047 because I'm honestly kind of bamboozled by Apple here. Also worthy to note that if you do decide to take your own screenshots, that line needs to be False. 
+The config file contains one extra line, which is False by default. If, and only if, you are using a Mac with retina display (ie Macbook Pro), you need to change that to True. If you are using retina display and are having issues, please message VLV#5047 because I'm honestly kind of bamboozled by Apple here. Also worthy to note that if you do decide to take your own screenshots, that line needs to be False. 
 
-Also, if you want to use 1152x720, you need to have a retina display and have the config line be False. Don't ask.
+Also, if you want to use the supported 1152x720, you need to have a retina display and have the config line be False. Don't ask.
 
 
 ## What can I do with this data?
@@ -41,15 +41,20 @@ Every week, Team Dawnbreakers will post the data on r/Shadowverse along with som
 ## I'm in, sign me up!
 Follow these links to download Nio!
 
-[OSX](http://www.mediafire.com/file/9fya0h3f799uhby/nio_mac.zip/file)
+[OSX](http://www.mediafire.com/file/nylloktb5hd3cbd/nio_mac.zip/file)
 
-[Windows](http://www.mediafire.com/file/b3mo4357v2d2h70/nio_windows.zip/file)
+[Windows](http://www.mediafire.com/file/ioaxkeb74st8g9q/nio_windows.zip/file)
 
 Linux: As of now, there is no Linux version of Nio. If you use Linux and are interested in helping, please message VLV#5047.
 
 
 ## User made folders
 Listed below are image folders kindly supplied by other users.
+
+N/A
+
+
+## List of confirmed issues
 
 N/A
 
@@ -73,7 +78,7 @@ If you have any feedback, feel free to message VLV#5047. Please keep in mind tha
 
 
 ## Hey man you sure this isn't a virus?
-Haha you sure caught me I was just about to steal that tier 0 homebrew deck with 25 8 drops that you just made. No of course it's not a virus. The source code is included in this repository. Even if you don't trust that, you can trust that I'm too shitty of a programmer to make a virus after you see it.
+Haha you sure caught me I was just about to steal that tier 0 homebrew deck with 25 8 drops that you just made. No of course it's not a virus. The source code is included in this repository. Even if you don't trust that, you can trust that I'm too shitty of a programmer to make a virus after you see it. If you're absolutely paranoid, you can just build the executable yourself from the .py file supplied here with pyinstaller.
 
 
 ## Wow man you're so cool how can I ever repay your broke college student ass
@@ -87,7 +92,7 @@ HSK PancakeReaper for his advice on which screens to take and control suggestion
 
 DB Praetorian for being the first to wonder "why isn't this working"?
 
-DB Blum and DB xninebreaker for testing the windows version.
+DB Blum, DB xninebreaker, DB meladog, and DB Gouletateur2 for testing the windows version.
 
 HSK Bravehood for the bugtesting and getting the screenshots for 1080p. 
 
