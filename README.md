@@ -73,7 +73,7 @@ N/A
 
 ## Is this against the TOS?
 
-I mean it's just continuously taking pictures of your screen, so it's pretty much a shitty twitch stream with an audience of 0. It does not modify SV in any way, nor does it inject anything. It does not monitor or interfere with any data being sent to or from the servers. Mostly because I'm too much of a monkey to figure out how to do that.
+I mean it's just continuously taking pictures of your screen, so it's pretty much a shitty twitch stream with an audience of 0. It does not modify SV in any way, nor does it inject anything. It does not monitor or interfere with any data being sent to or from the servers. Mostly because I'm too much of a monkey to figure out how to do that. Final answer: I'm not aware of any reason for why this would be violating the TOS, and yes, I did read it.
 
 
 ## It's not working???
