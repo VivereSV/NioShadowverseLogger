@@ -33,7 +33,8 @@ Simply submit it like so:
 +data;(copy paste of the log.txt file found in resources)
 
 See the example below:
-(pending)
+
+!(https://i.imgur.com/KVIB0Kv.png)
 
 
 ## What will be done with the data?
