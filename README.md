@@ -34,7 +34,7 @@ Simply submit it like so:
 
 See the example below:
 
-!(https://i.imgur.com/KVIB0Kv.png)
+![example](https://i.imgur.com/KVIB0Kv.png)
 
 
 ## What will be done with the data?
