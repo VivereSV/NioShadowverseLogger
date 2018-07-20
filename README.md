@@ -90,6 +90,11 @@ Check the resources folder. Each log is dated in the format month-day-year-log.t
 If you're just curious or if you want to make your own program to parse it (feel free to do so by the way), the format is: (your class) (opponent class) (true if you went first, false otherwise) (true if you won, false otherwise). Without the parentheses of course. 
 
 
+## Does this track deck archetypes?
+
+As of now, it does not. However, that is indeed one of the future goals. Soon TM omegaLUL.
+
+
 ## Hey, can you make it do ____?
 
 If you have any feedback, feel free to message VLV#5047. Please keep in mind that it is very likely that your suggestion will not be implemented in the near future for a variety of reasons. Mostly because I'm really bad at python.
