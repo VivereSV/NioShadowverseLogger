@@ -23,7 +23,9 @@ Also, if you want to use the supported 1152x720, you need to have a retina displ
 
 
 ## What can I do with this data?
-If you would like to contribute your data to the public pool, simply head over to the [Team Dawnbreakers Discord server](https://discord.gg/BjeFkVS), ask one of the moderators for a "Data Logger" role, and send a message in the #data_log channel in the proper format (covered in next section). All messages sent to SAlter will be recorded and should we find that you are submitting fraudulent data or abusing the function, you will not be allowed to send anymore messages to SAlter in the future. 
+If you would like to contribute your data to the public pool, simply head over to the [Team Dawnbreakers Discord server](https://discord.gg/BjeFkVS), ask one of the moderators for a "Data Logger" role, and send a message in the #data_log channel in the proper format (covered in next section). While we understand that rank does not always correlate to skill, we ask that you also attach a screenshot of your Shadowverse profile and be rank A and above.
+
+All messages sent to SAlter will be recorded and should we find that you are submitting fraudulent data or abusing the function, you will receive one warning before being banned.
 
 
 ## Okay, so about that format?
@@ -43,7 +45,7 @@ Follow these links to download Nio!
 
 [OSX](http://www.mediafire.com/file/nylloktb5hd3cbd/nio_mac.zip/file)
 
-[Windows](http://www.mediafire.com/file/ioaxkeb74st8g9q/nio_windows.zip/file)
+[Windows](http://www.mediafire.com/file/88n2xgfc873z689/nio_windows.zip/file)
 
 Linux: As of now, there is no Linux version of Nio. If you use Linux and are interested in helping, please message VLV#5047.
 
@@ -60,8 +62,16 @@ N/A
 
 
 # FAQ
+
+## Is this against the TOS?
+
+I mean it's just continuously taking pictures of your screen, so it's pretty much a shitty twitch stream with an audience of 0. It does not modify SV in any way, nor does it inject anything. It does not monitor or interfere with any data being sent to or from the servers. Mostly because I'm too much of a monkey to figure out how to do that.
+
+
 ## It's not working???
 If you are experiencing technical difficulties, please inform VLV#5047. Please provide as much detail as you can about the issues that you are having. One great trick is to open the terminal/command prompt, drag the executable file into it, hit enter, and take a screenshot of the output.
+
+Common errors are: incorrect resolution, playing in full screen, covering up parts of the SV window, and not have your config file set properly. 
 
 
 ## Where are my data files??
@@ -88,11 +98,11 @@ Haha you sure caught me I was just about to steal that tier 0 homebrew deck with
 # Special thanks to...
 FaceTorched#5219 for making the Windows distribution, bugtesting, and giving suggestions. If it were not for him, this would be an OSX only application omegaLUL. Feel free to send him pictures of french fries with no explanation.
 
-HSK PancakeReaper for his advice on which screens to take and control suggestions.
+HSK PancakeReaper for his advice on which screens to take and control suggestions. And saving me from going down a path that would have taken a lot more time and probably not worked.
 
 DB Praetorian for being the first to wonder "why isn't this working"?
 
-DB Blum, DB xninebreaker, DB meladog, and DB Gouletateur2 for testing the windows version.
+DB Blum, DB xninebreaker, DB meladog, HSK Szerro, DB Gouletateur2, and TO 5x2=9 for testing the windows version.
 
 HSK Bravehood for the bugtesting and getting the screenshots for 1080p. 
 
