@@ -66,7 +66,9 @@ N/A
 
 ## List of confirmed issues
 
-N/A
+Problem: Sometimes does not record losses on 1920x1080
+
+Solution: Replace the Defeat.png in the 1920x1080 folder with a screenshot of your own. Keep it at around the same size.
 
 
 # FAQ
