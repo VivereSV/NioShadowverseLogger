@@ -105,11 +105,6 @@ If you have any feedback, feel free to message VLV#5047. Please keep in mind tha
 ## Hey man you sure this isn't a virus?
 Haha you sure caught me I was just about to steal that tier 0 homebrew deck with 25 8 drops that you just made. No of course it's not a virus. The source code is included in this repository. Even if you don't trust that, you can trust that I'm too shitty of a programmer to make a virus after you see it. If you're absolutely paranoid, you can just build the executable yourself from the .py file supplied here with pyinstaller.
 
-
-## Wow man you're so cool how can I ever repay your broke college student ass
-[Pay me with real money](https://www.paypal.me/vlvsv)
-
-
 # Special thanks to...
 FaceTorched#5219 for making the Windows distribution, bugtesting, and giving suggestions. If it were not for him, this would be an OSX only application omegaLUL. Feel free to send him pictures of french fries with no explanation.
 
